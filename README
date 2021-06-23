@@ -4,11 +4,11 @@ EMAIL: singhania_dhruv@yahoo.com
 Bruinbot Project
 
 Description:
-The UCLA ASME X1 Bruinbot project was to build a large autonomous robot capable of moving around a campus, processing what it encounters, and communicating with any people. My Vision/AI subsystem team worked on writing vision and voice code to be run by the robot through a Raspberry Pi.
-For vision, we combined code that detected faces and code that classfied emotions to create our final script. For voice, we created a customized Google Actions project that utilized Google Assistant to communicate with a user when prompted. Finally, we created a Google Cloud project to host a virtual machine which ran our project while keeping a log of the robot's interactions.
+        The UCLA ASME X1 Bruinbot project was to build a large autonomous robot capable of moving around a campus, processing what it encounters, and communicating with any people. My Vision/AI subsystem team worked on writing vision and voice code to be run by the robot through a Raspberry Pi.
+        For vision, we combined code that detected faces and code that classfied emotions to create our final script. For voice, we created a customized Google Actions project that utilized Google Assistant to communicate with a user when prompted. Finally, we created a Google Cloud project to host a virtual machine which ran our project while keeping a log of the robot's interactions.
 
 Included files:
-image_bot_recognition.py - python source file that detects all faces in an image and classfies the emotions exhibited
-real_time_bot_recognition.py - python source file that detects all faces in a live video stream and classifies the emotions exhibited
+        image_bot_recognition.py - python source file that detects all faces in an image and classfies the emotions exhibited
+        real_time_bot_recognition.py - python source file that detects all faces in a live video stream and classifies the emotions exhibited
 
 The rest of the project, including voice, can be found at https://github.com/UCLAX1/BruinBot-Vision-AI
